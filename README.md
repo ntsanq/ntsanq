@@ -9,3 +9,5 @@
 
 ---
 <img align:"left" src="https:github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true"/> 
+---
+[![ntsanq](https://spotify-github-profile.vercel.app/api/view?uid=31zlz6u7ti3a2jpx4y6ketovsnga&cover_image=false&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
