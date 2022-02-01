@@ -1,6 +1,6 @@
 ## Hi I'm Sang👋
 
-- 🔭 I’m currently studying working in **Can Tho, Vietnam**
+- 🔭 I’m currently working in **Can Tho, Vietnam**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ntsanq)
 
