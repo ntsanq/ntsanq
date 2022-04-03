@@ -1,6 +1,6 @@
 ## Hi I'm Sang👋
 
-- 🔭 I’m currently working in **HCM City, Vietnam**
+- 🔭 I’m currently working in **Ho Chi Minh City, Vietnam**
 
 - 👨‍💻 All of my projects are available at [this github](https://github.com/ntsanq)
 
