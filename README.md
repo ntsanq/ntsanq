@@ -25,6 +25,3 @@
 	</a>
 	
 </p>
-
-### My GitHub Stats
-<a href="http://www.github.com/ntsanq"><img src="https://activity-graph.herokuapp.com/graph?username=ntsanq&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
