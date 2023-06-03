@@ -1,6 +1,8 @@
 ## Hi I'm Sang👋
 
-- 🔭 I’m currently working in **Ho Chi Minh City, Vietnam**
+- 🔭 I’m a fullstack developer, currently working in **Ho Chi Minh City, Vietnam**
+
+- Email me: ntsanq@gmail.com
 
 - 👨‍💻 All of my projects are available at [this github](https://github.com/ntsanq?tab=repositories)
 
