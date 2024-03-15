@@ -15,6 +15,6 @@
 ### Languages and Tools
 <p align="left">
 	<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
-	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/> </a>
 	<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>	
 </p>
