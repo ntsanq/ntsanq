@@ -3,7 +3,7 @@
 I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, specializing in web development. Here's a little about me:
 
 - 🔭 I’m currently working as a fullstack developer.
-- 🌱 I specialize in **Next.js**, **React**, **Laravel**, and **PHP**.
+- 🌱 I specialize in **Next.js**, **React**, **Laravel**, and **Symfony**, ...
 - 💼 I have experience with both frontend and backend development.
 - 📫 You can reach me via email at: [ntsanq@gmail.com](mailto:ntsanq@gmail.com)
 
