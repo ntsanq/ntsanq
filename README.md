@@ -23,7 +23,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
 
 1. **U2fly**
     - Description: Developed a comprehensive RESTful API and dynamic website tailored for facilitating flight bookings.
-    - Technologies Used: RESTful API, [Additional technologies utilized]
+    - Technologies Used: RESTful API, AWS (EC2, S3)
     - Role: Backend Development
 
 2. **BlueDog**
@@ -79,5 +79,5 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="react" width="40" height="40"/> <a/>
 	<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/> </a>
-	<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fsymfony&psig=AOvVaw2Mc2hzcR1ni-fIhRVMj_xY&ust=1714448847651000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLje9eXB5oUDFQAAAAAdAAAAABAE" alt="symfony" width="40" height="40"/> </a>	
+	<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/585/802/png-transparent-symfony-full-logo-tech-companies.png" alt="symfony" width="40" height="40"/> </a>	
 </p>
