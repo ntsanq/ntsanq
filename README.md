@@ -22,50 +22,50 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
 ## Projects
 
 1. **U2fly**
-    - Description: Developed a comprehensive RESTful API and dynamic website tailored for facilitating flight bookings.
-    - Technologies Used: RESTful API, AWS (EC2, S3)
-    - Role: Backend Development
+   - Description: Developed a comprehensive RESTful API and dynamic website tailored for facilitating flight bookings.
+   - Technologies Used: RESTful API, AWS (EC2, S3)
+   - Role: Backend Development
 
 2. **BlueDog**
-    - Description: Engineered a coding assessment platform leveraging Lumen to construct a robust database and provide a seamless RESTful API.
-    - Role: Backend Development
+   - Description: Engineered a coding assessment platform leveraging Lumen to construct a robust database and provide a seamless RESTful API.
+   - Role: Backend Development
 
 3. **Bertelsopher**
-    - Description: Entrusted with the responsibility of maintaining, conducting quality assurance, and orchestrating updates for the OXID platform.
-    - Role: Frontend Development
+   - Description: Entrusted with the responsibility of maintaining, conducting quality assurance, and orchestrating updates for the OXID platform.
+   - Role: Frontend Development
 
 4. **KOQOON**
-    - Description: Spearheaded the frontend development initiatives aligned with the OXID design philosophy.
-    - Role: Frontend Development
+   - Description: Spearheaded the frontend development initiatives aligned with the OXID design philosophy.
+   - Role: Frontend Development
 
 5. **Trigema**
-    - Description: Led the frontend development efforts in accordance with the Astro design specifications.
-    - Role: Frontend Developer
+   - Description: Led the frontend development efforts in accordance with the Astro design specifications.
+   - Role: Frontend Developer
 
 6. **Darkstar Platform**
-    - Description:
-        - Contributed to a dynamic Scrum team, orchestrating the development lifecycle.
-        - Configured and optimized Tailwind CSS for enhanced styling capabilities.
-        - Implemented Next.js for efficient and performant frontend development.
-        - Employed Monorepo architecture using TurboRepo for streamlined code management.
-        - Expertly customized and extended components as per project requirements.
-        - Integrated frontend applications seamlessly into the Vercel deployment environment.
-        - Devised and executed comprehensive GitLab CI/CD pipelines for automated testing and deployment.
-        - Maintained meticulous GitHub changelogs to ensure transparency and collaboration.
-        - Designed and executed unit tests to validate functionality and reliability.
-        - Established and leveraged GitHub packages and NPM packages for efficient code sharing.
-        - Crafted reusable components with meticulous attention to detail, accompanied by comprehensive unit tests.
-        - Authored comprehensive Storybook documentation for clear component understanding and usage.
+   - Description:
+      - Contributed to a dynamic Scrum team, orchestrating the development lifecycle.
+      - Configured and optimized Tailwind CSS for enhanced styling capabilities.
+      - Implemented Next.js for efficient and performant frontend development.
+      - Employed Monorepo architecture using TurboRepo for streamlined code management.
+      - Expertly customized and extended components as per project requirements.
+      - Integrated frontend applications seamlessly into the Vercel deployment environment.
+      - Devised and executed comprehensive GitLab CI/CD pipelines for automated testing and deployment.
+      - Maintained meticulous GitHub changelogs to ensure transparency and collaboration.
+      - Designed and executed unit tests to validate functionality and reliability.
+      - Established and leveraged GitHub packages and NPM packages for efficient code sharing.
+      - Crafted reusable components with meticulous attention to detail, accompanied by comprehensive unit tests.
+      - Authored comprehensive Storybook documentation for clear component understanding and usage.
 
 7. **Rotkaepchen**
-    - Description:
-        - Leveraged Makaira and Shopify to develop and maintain a robust and scalable web application.
-        - Provided ongoing maintenance and support, swiftly addressing and resolving any issues.
-        - Implemented critical bug fixes and optimized application logic for enhanced performance.
-        - Seamlessly integrated existing components into a new application environment.
-        - Conducted rigorous end-to-end testing using Playwright and Cypress to ensure robustness and reliability.
+   - Description:
+      - Leveraged Makaira and Shopify to develop and maintain a robust and scalable web application.
+      - Provided ongoing maintenance and support, swiftly addressing and resolving any issues.
+      - Implemented critical bug fixes and optimized application logic for enhanced performance.
+      - Seamlessly integrated existing components into a new application environment.
+      - Conducted rigorous end-to-end testing using Playwright and Cypress to ensure robustness and reliability.
 
-            
+
 ### How to reach me
 - 📫 Email: [ntsanq@gmail.com](mailto:ntsanq@gmail.com)
 - 📱 Facebook: [facebook.com/ntsanq24](https://facebook.com/ntsanq24)
@@ -75,9 +75,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
 [//]: # ([![Spotify]&#40;https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&#41;]&#40;https://open.spotify.com/user/31zlz6u7ti3a2jpx4y6ketovsnga&#41;)
 
 ### Languages and Tools
-<p style="display: flex; gap: 10px;">
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="react" width="40" height="40"/> <a/>
-	<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
-	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/> </a>
-	<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/585/802/png-transparent-symfony-full-logo-tech-companies.png" alt="symfony" width="40" height="40"/> </a>	
-</p>
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+- ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+- ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony)
