@@ -39,7 +39,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
    - Role: Frontend Development
 
 5. **Trigema**
-   - Description: Led the frontend development efforts in accordance with the Astro design specifications.
+   - Description: Developed frontend in Astro in accordance with the Figma design specifications.
    - Role: Frontend Developer
 
 6. **Darkstar Platform**
