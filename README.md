@@ -57,7 +57,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
       - Crafted reusable components with meticulous attention to detail, accompanied by comprehensive unit tests.
       - Authored comprehensive Storybook documentation for clear component understanding and usage.
 
-7. **Rotkaepchen**
+7. **Rotkaepchen-Mumm**
    - Description:
       - Leveraged Makaira and Shopify to develop and maintain a robust and scalable web application.
       - Provided ongoing maintenance and support, swiftly addressing and resolving any issues.
