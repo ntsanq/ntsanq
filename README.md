@@ -56,6 +56,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
       - Established and leveraged GitHub packages and NPM packages for efficient code sharing.
       - Crafted reusable components with meticulous attention to detail, accompanied by comprehensive unit tests.
       - Authored comprehensive Storybook documentation for clear component understanding and usage.
+   - Role: Frontend Developer
 
 7. **Rotkaepchen-Mumm**
    - Description:
@@ -64,7 +65,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
       - Implemented critical bug fixes and optimized application logic for enhanced performance.
       - Seamlessly integrated existing components into a new application environment.
       - Conducted rigorous end-to-end testing using Playwright and Cypress to ensure robustness and reliability.
-
+   - Role: Frontend Developer
 
 ### How to reach me
 - 📫 Email: [ntsanq@gmail.com](mailto:ntsanq@gmail.com)
