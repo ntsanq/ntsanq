@@ -42,7 +42,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
    - Description: Developed frontend on Astro in accordance with the Figma design specifications.
    - Role: Frontend Developer
 
-6. **Darkstar Platform**
+6. **E-commerce Platform**
    - Description:
       - Contributed to a dynamic Scrum team, orchestrating the development lifecycle.
       - Configured and optimized Tailwind CSS for enhanced styling capabilities.
@@ -69,7 +69,6 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
 
 ### How to reach me
 - 📫 Email: [ntsanq@gmail.com](mailto:ntsanq@gmail.com)
-- 📱 Facebook: [facebook.com/ntsanq24](https://facebook.com/ntsanq24)
 - 💼 LinkedIn: [linkedin.com/in/ntsanq](https://linkedin.com/in/ntsanq)
 
 [//]: # (### Spotify Playing 🎧)
