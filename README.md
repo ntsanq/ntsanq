@@ -21,12 +21,12 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam, special
 
 ## Projects
 
-1. **U2fly**
+1. **Flight Booking**
    - Description: Developed a comprehensive RESTful API and dynamic website tailored for facilitating flight bookings.
    - Technologies Used: RESTful API, AWS (EC2, S3)
    - Role: Backend Development
 
-2. **BlueDog**
+2. **Coding Test App**
    - Description: Engineered a coding assessment platform leveraging Lumen to construct a robust database and provide a seamless RESTful API.
    - Role: Backend Development
 
