@@ -11,7 +11,7 @@ I'm a passionate fullstack developer based in Ho Chi Minh City, Vietnam. I speci
 ## 🛠 Skills
 - **Frontend**: Next.js, React, CSS (Tailwind, Material UI, etc.)
 - **Backend**: Laravel, Symfony, PHP, Gosu
-- **DevOps**: CI/CD (GitLab), Git
+- **DevOps**: CI/CD (GitLab, Jenkins, GitHub Actions), AWS
 - **Testing**: Unit and End-to-End Testing (Playwright, Cypress)
 - **Agile Methodologies**: Scrum
 
