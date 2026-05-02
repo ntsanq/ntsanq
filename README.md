@@ -79,9 +79,3 @@ I'm a Software Engineer based in Ho Chi Minh City, Vietnam, focusing on frontend
 - Deployed backend services on AWS EC2  
 - Focused on scalability and clean API design  
 
----
-
-## Highlights
-- Experience across e-commerce, insurance, manufacturing, and enterprise systems  
-- Strong mix of frontend and test automation expertise  
-- Focus on scalability, maintainability, and clean architecture  
