@@ -1,50 +1,87 @@
-# Hi there, I'm Sang! 👋
+# Hi, I'm Sang
 
-I'm a passionate **fullstack** developer leaning towards **frontend** development based in Ho Chi Minh City, Vietnam. I specialize in creating efficient and scalable web applications using modern technologies.
+I'm a Software Engineer based in Ho Chi Minh City, Vietnam, focusing on frontend development and scalable web applications, with experience across fullstack and test automation.
 
-## 🚀 About Me
-- 💻 Currently working as a fullstack developer.
-- 🌱 Proficient in **Next.js**, **React**, **Laravel**, and more.
-- 🔧 Experienced in both frontend and backend development.
-- 📫 Reach me at: [ntsanq@gmail.com](mailto:ntsanq@gmail.com) | [LinkedIn](https://linkedin.com/in/ntsanq)
+## About Me
+- Strong focus on React, Next.js, and modern frontend systems  
+- Experience building both user-facing products and internal platforms  
+- Recently working on test automation and quality engineering  
+- Contact: ntsanq@gmail.com | https://linkedin.com/in/ntsanq  
 
-## 🛠 Skills
-- **Frontend**: React.js, Javascript, Typescript, CSS (Tailwind, Material UI, etc.)
-- **Backend**: Laravel, Symfony, PHP, Gosu
-- **DevOps**: CI/CD (GitLab, Jenkins, GitHub Actions), AWS services (EC2, S3...)
-- **Testing**: Unit and End-to-End Testing (Selenium, Playwright, Cypress)
-- **Agile Methodologies**: Scrum
-- **Project Domains**: Ecommerce, Insurance.
+---
 
-## 🌟 Projects
-- Maintained and implemented for a Danish insurance company, maintaining and adding new features / change requests to a system running on the Guidewire framework using **Gosu** for the backend and **React** for the frontend.  
-  *Role: Fullstack Developer*
+## Skills
 
-- Designed and implemented a scalable e-commerce platform using Next.js, Tailwind CSS, and TurboRepo, complete with CI/CD pipelines.  
-  *Role: Frontend Developer*
+**Frontend**  
+- React.js, Next.js, TypeScript, Tailwind CSS, Material UI, Storybook  
 
-- Developed and maintained a robust web application using Makaira and Shopify, with end-to-end testing.  
-  *Role: Fullstack Developer*
+**Backend**  
+- Laravel, Symfony, PHP, Gosu, RESTful APIs  
 
-- Built a modern frontend using Astro, translating Figma designs into scalable web applications.  
-  *Role: Frontend Developer*
+**Testing**  
+- Playwright, Cypress, Selenium, End-to-End Testing  
 
-- Spearheaded frontend development initiatives aligned with a high-profile design system.  
-  *Role: Frontend Developer*
+**DevOps**  
+- GitHub Actions, GitLab CI/CD, Jenkins, Vercel, AWS  
 
-- Maintained and conducted quality assurance for a large-scale e-commerce platform.  
-  *Role: Frontend Developer*
+---
 
-- Created a coding assessment platform with Lumen to construct a robust backend and seamless API.  
-  *Role: Backend Developer*
-  
-- Developed a comprehensive RESTful API and dynamic website for flight bookings, leveraging AWS technologies.  
-  *Role: Backend Developer*
+## Projects
 
+### Manufacturing System – Test Automation Framework  
+**Role: Software Engineer in Test**  
+- Built the automation testing foundation using Playwright  
+- Designed a scalable framework for dynamic workflows and multi-environment setups  
+- Leveraged AI tools to generate and optimize test cases, improving coverage and reducing manual effort  
+- Developed reusable testing architecture (fixtures, utilities, components)  
+- Defined automation strategy focused on critical business flows  
 
+---
 
+### Oil & Gas Enterprise System – Automation  
+**Role: Software Engineer in Test**  
+- Developed end-to-end automation using Cypress  
+- Translated complex business requirements into maintainable test cases  
+- Improved test reliability, structure, and maintainability  
 
+---
 
+### Insurance Platform (Guidewire Ecosystem)  
+**Role: Fullstack Developer**  
+- Maintained and extended a large-scale insurance system  
+- Developed features using Gosu (backend) and React (frontend)  
+- Designed modular backend components for data migration workflows  
+- Worked with complex business logic across multiple release cycles  
 
+---
 
+### E-commerce Platforms (Multiple Domains)  
+**Role: Frontend Developer**  
+- Built frontend systems for scalable e-commerce platforms using Next.js, Tailwind, and TurboRepo  
+- Implemented CI/CD pipelines with Vercel, GitHub Actions, and GitLab  
+- Developed reusable UI components and design systems with Storybook  
+- Delivered projects across domains including wine, fashion, e-bikes, and appliances  
+- Worked on both custom solutions and Shopify-based systems  
 
+---
+
+### Coding Assessment Platform  
+**Role: Backend Developer**  
+- Built RESTful APIs for an internal coding assessment platform  
+- Designed backend using Lumen and API gateway architecture  
+- Supported large-scale data collection for university workshops  
+
+---
+
+### Flight Booking System  
+**Role: Backend Developer**  
+- Developed a RESTful API for a flight booking platform  
+- Deployed backend services on AWS EC2  
+- Focused on scalability and clean API design  
+
+---
+
+## Highlights
+- Experience across e-commerce, insurance, manufacturing, and enterprise systems  
+- Strong mix of frontend and test automation expertise  
+- Focus on scalability, maintainability, and clean architecture  
