@@ -16,7 +16,7 @@ I'm a Senior Software Engineer based in Ho Chi Minh City, Vietnam, focused on fr
 - React, Next.js, Astro, TypeScript, JavaScript, Tailwind CSS, Storybook
 
 **Backend**  
-- Gosu (Guidewire), Java, Laravel, KrakenD, REST APIs
+- PHP, Java, Guidewrire (Gosu), KrakenD, REST APIs
 
 **Testing**  
 - Playwright, Cypress, End-to-End Testing, Regression Testing
