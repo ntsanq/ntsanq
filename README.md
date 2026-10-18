@@ -1,81 +1,79 @@
-# Hi, I'm Sang
+# Hi, I'm Sang Nguyen
 
-I'm a Software Engineer based in Ho Chi Minh City, Vietnam, focusing on frontend development and scalable web applications, with experience across fullstack and test automation.
+I'm a Senior Software Engineer based in Ho Chi Minh City, Vietnam, focused on frontend engineering and test automation, with experience across full-stack development and quality engineering.
 
 ## About Me
-- Strong focus on React, Next.js, and modern frontend systems  
-- Experience building both user-facing products and internal platforms  
-- Recently working on test automation and quality engineering  
-- Contact: ntsanq@gmail.com | https://linkedin.com/in/ntsanq  
+- Focused on React, Next.js, TypeScript, and modern frontend systems
+- Build responsive, reusable interfaces and maintainable end-to-end test automation
+- Experience across e-commerce, insurance, manufacturing, and enterprise systems
+- Contact: [ntsanq@gmail.com](mailto:ntsanq@gmail.com) | [LinkedIn](https://linkedin.com/in/ntsanq)
 
 ---
 
 ## Skills
 
 **Frontend**  
-- React.js, Next.js, TypeScript, Tailwind CSS, Material UI, Storybook  
+- React, Next.js, Astro, TypeScript, JavaScript, Tailwind CSS, Storybook
 
 **Backend**  
-- Laravel, Symfony, PHP, Gosu, RESTful APIs  
+- Gosu (Guidewire), Java, Laravel, KrakenD, REST APIs
 
 **Testing**  
-- Playwright, Cypress, Selenium, End-to-End Testing  
+- Playwright, Cypress, End-to-End Testing, Regression Testing
 
 **DevOps**  
-- GitHub Actions, GitLab CI/CD, Jenkins, Vercel, AWS  
+- GitHub Actions, CI/CD, Vercel, AWS EC2
 
 ---
 
 ## Projects
 
-### Manufacturing System – Test Automation Framework  
+### Manufacturing Execution System
 **Role: Software Engineer in Test**  
-- Built the automation testing foundation using Playwright  
-- Designed a scalable framework for dynamic workflows and multi-environment setups  
-- Leveraged AI tools to generate and optimize test cases, improving coverage and reducing manual effort  
-- Developed reusable testing architecture (fixtures, utilities, components)  
-- Defined automation strategy focused on critical business flows  
+- Proposed an automation plan for a complex manufacturing system to reduce manual regression testing effort
+- Established a reusable Playwright foundation with fixtures, utilities, and components for dynamic workflows
+- Defined test scope around business-critical flows and used AI tools to help generate and optimize test cases
+- Led an automation team and coordinated planning
 
 ---
 
-### Oil & Gas Enterprise System – Automation  
+### Oil & Gas System
 **Role: Software Engineer in Test**  
-- Developed end-to-end automation using Cypress  
-- Translated complex business requirements into maintainable test cases  
-- Improved test reliability, structure, and maintainability  
+- Developed and organized maintainable end-to-end tests using Cypress
+- Explored application workflows and worked with the product owner to translate domain requirements into test cases
+- Aligned automation scope with delivery timelines and improved test reliability
 
 ---
 
-### Insurance Platform (Guidewire Ecosystem)  
+### Insurance System
 **Role: Fullstack Developer**  
-- Maintained and extended a large-scale insurance system  
-- Developed features using Gosu (backend) and React (frontend)  
-- Designed modular backend components for data migration workflows  
-- Worked with complex business logic across multiple release cycles  
+- Worked across Guidewire PolicyCenter and BillingCenter, a Java policy-migration tool, and a newer React application
+- Implemented React frontend work for insurance workflows
+- Developed a Java migration tool to support moving policies from a legacy system into Guidewire PolicyCenter
+- Structured migration processing as ordered steps with execution status and failure handling
 
 ---
 
-### E-commerce Platforms (Multiple Domains)  
+### E-commerce Platforms
 **Role: Frontend Developer**  
-- Built frontend systems for scalable e-commerce platforms using Next.js, Tailwind, and TurboRepo  
-- Implemented CI/CD pipelines with Vercel, GitHub Actions, and GitLab  
-- Developed reusable UI components and design systems with Storybook  
-- Delivered projects across domains including wine, fashion, e-bikes, and appliances  
-- Worked on both custom solutions and Shopify-based systems  
+- Built a reusable e-commerce platform with Next.js, Tailwind CSS, and Turborepo, then adapted storefronts to client needs
+- Delivered projects across wine, fashion, e-bikes, and home appliances
+- Built reusable UI components and maintained a component library with Storybook
+- Integrated frontend features with backend APIs, wrote Playwright end-to-end tests, and set up CI/CD workflows
+- Also worked on storefronts using Astro, Shopify, and OXID
 
 ---
 
-### Coding Assessment Platform  
+### Coding Assessment Application
 **Role: Backend Developer**  
-- Built RESTful APIs for an internal coding assessment platform  
-- Designed backend using Lumen and API gateway architecture  
-- Supported large-scale data collection for university workshops  
+- Built REST APIs for an internal coding assessment platform using Laravel
+- Used KrakenD to support the API gateway architecture
+- Supported large-scale data collection for university workshops
 
 ---
 
-### Flight Booking System  
+### Flight Booking System
 **Role: Backend Developer**  
-- Developed a RESTful API for a flight booking platform  
-- Deployed backend services on AWS EC2  
-- Focused on scalability and clean API design  
-
+- Developed RESTful APIs for a flight booking platform
+- Deployed backend services on AWS EC2
+- Focused on scalability and clean API design
